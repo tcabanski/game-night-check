@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.run.lock
+.env
+.env.*
+campaigns.yaml
+*private*
+*.log
+*Log.md
+calendar-export*
+.DS_Store
